@@ -7,5 +7,6 @@
   ],
   "interfaceFontFamily": "Fira Code",
   "nativeMenus": true,
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 15
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Estructuras y tipos de datos.md",
-                "mode": "preview",
+                "file": "Pensamiento logico.md/circunferencia.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Estructuras y tipos de datos.md",
+                "file": "Pensamiento logico.md/circunferencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Estructuras y tipos de datos.md",
+                "file": "Pensamiento logico.md/circunferencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Estructuras y tipos de datos.md"
+                "file": "Pensamiento logico.md/circunferencia.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,10 +164,10 @@
   },
   "active": "d341d4e3074bae12",
   "lastOpenFiles": [
+    "python/Estructuras y tipos de datos.md",
     "python/src/Diagram.svg",
     "python/src/Cola.svg",
     "python/src/Deque.svg",
-    "python/Estructuras y tipos de datos.md",
     "python/src/Pila.svg",
     "python/args and kwargs.md",
     "python/Python.md",

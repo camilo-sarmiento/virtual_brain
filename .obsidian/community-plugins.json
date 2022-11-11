@@ -24,10 +24,10 @@
   "embed-code-file",
   "cycle-through-panes",
   "obsidian-smarter-md-hotkeys",
-  "obsidian-latex-suite",
-  "obsidian-latex",
   "obsidian-stille",
   "dataview",
   "dbfolder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex",
+  "quick-latex"
 ]
