@@ -1,0 +1,240 @@
+{
+  "data": {
+    "table-id-9QuQOs": {
+      "model": {
+        "rowIds": [
+          "row-id-ihdUg6Tt",
+          "row-id-04asE5Pk",
+          "row-id-tlhaFNQC"
+        ],
+        "columnIds": [
+          "column-id-VcndCW9r",
+          "column-id-tGR7B6BB",
+          "column-id-IizVQwF6"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-pGjzf5r1",
+            "columnId": "column-id-VcndCW9r",
+            "rowId": "row-id-ihdUg6Tt",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-W0NYRrKr",
+            "columnId": "column-id-tGR7B6BB",
+            "rowId": "row-id-ihdUg6Tt",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-rXUIcUFk",
+            "columnId": "column-id-IizVQwF6",
+            "rowId": "row-id-ihdUg6Tt",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-f2aTr44I",
+            "columnId": "column-id-VcndCW9r",
+            "rowId": "row-id-tlhaFNQC",
+            "markdown": "data 1",
+            "html": "data 1",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-rJanG0Iq",
+            "columnId": "column-id-tGR7B6BB",
+            "rowId": "row-id-tlhaFNQC",
+            "markdown": "data 2",
+            "html": "data 2",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-2OrKS47h",
+            "columnId": "column-id-IizVQwF6",
+            "rowId": "row-id-tlhaFNQC",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-43IAWDxf",
+            "columnId": "column-id-VcndCW9r",
+            "rowId": "row-id-04asE5Pk",
+            "markdown": "dataset",
+            "html": "dataset",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-DpLu2RR9",
+            "columnId": "column-id-tGR7B6BB",
+            "rowId": "row-id-04asE5Pk",
+            "markdown": "dataset",
+            "html": "dataset",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-dxXSvel2",
+            "columnId": "column-id-IizVQwF6",
+            "rowId": "row-id-04asE5Pk",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-VcndCW9r": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-tGR7B6BB": {
+            "sortDir": "desc",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-IizVQwF6": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "number",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-ihdUg6Tt": {
+            "creationDate": 1667312719112
+          },
+          "row-id-tlhaFNQC": {
+            "creationDate": 1667312719113
+          },
+          "row-id-04asE5Pk": {
+            "creationDate": 1667312755596
+          }
+        }
+      },
+      "pluginVersion": 505
+    },
+    "table-id-7LQbKt": {
+      "model": {
+        "columnIds": [
+          "column-id-zaOqqXCV",
+          "column-id-2jWg15ow",
+          "column-id-dztK7Thq"
+        ],
+        "rowIds": [
+          "row-id-A2DaKtFB",
+          "row-id-TXmx7MyB"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-aq25tj9l",
+            "columnId": "column-id-zaOqqXCV",
+            "rowId": "row-id-A2DaKtFB",
+            "markdown": "Premisas",
+            "html": "Premisas",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-fCny2Dzs",
+            "columnId": "column-id-2jWg15ow",
+            "rowId": "row-id-A2DaKtFB",
+            "markdown": "Conclusión",
+            "html": "Conclusión",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-rjIThhCs",
+            "columnId": "column-id-dztK7Thq",
+            "rowId": "row-id-A2DaKtFB",
+            "markdown": "Reglas de inferencia",
+            "html": "Reglas de inferencia",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-YZxMR7Dy",
+            "columnId": "column-id-zaOqqXCV",
+            "rowId": "row-id-TXmx7MyB",
+            "markdown": "Posibles resultados, hipótesis o supuesto <br> que se consideran verdaderas",
+            "html": "Posibles resultados, hipótesis o supuesto &lt;br&gt; que se consideran verdaderas",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-vU7IK1Rv",
+            "columnId": "column-id-2jWg15ow",
+            "rowId": "row-id-TXmx7MyB",
+            "markdown": "Proposición que se desea <br> comprobar a partir de premisas",
+            "html": "Proposición que se desea &lt;br&gt; comprobar a partir de premisas",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-WG79jT7I",
+            "columnId": "column-id-dztK7Thq",
+            "rowId": "row-id-TXmx7MyB",
+            "markdown": "Conjuntos de pasos <br>para obtener otras conclusiones de acuerdo a las premisas",
+            "html": "Conjuntos de pasos &lt;br&gt;para obtener otras conclusiones de acuerdo a las premisas",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-zaOqqXCV": {
+            "sortDir": "default",
+            "width": "212px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": true,
+            "tags": []
+          },
+          "column-id-2jWg15ow": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-dztK7Thq": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-A2DaKtFB": {
+            "creationDate": 1667313569116
+          },
+          "row-id-TXmx7MyB": {
+            "creationDate": 1667313569117
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-7LQbKt",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}

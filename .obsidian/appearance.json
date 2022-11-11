@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "style",
+    "custom-admonitions.e488bb"
+  ],
+  "interfaceFontFamily": "Fira Code",
+  "nativeMenus": true,
+  "translucency": true
+}

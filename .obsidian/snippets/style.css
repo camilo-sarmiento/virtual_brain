@@ -1,0 +1,63 @@
+*{
+    /* font-family: 'Fira Code', monospace!important; */
+    font-family: 'Fira Code',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: normal!important;
+}
+.green{
+    color: green;
+}
+.internal-link{
+    text-decoration: none!important;
+    font-weight: 700;
+}
+.language-cmd{
+    font-style: italic;
+    opacity: .8;
+    font-weight: 300!important;
+}
+div[src] > img{
+    margin: 25px;
+
+}
+div[src]{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+pre{
+    margin: 0;
+}
+
+.copy-code-button[style]{
+    right: 60px!important;
+}
+.admonition-parent > p{
+    display: none;
+}
+
+hr{
+    border-color: #f3f3f3!important;
+}
+blockquote {
+    background: hsl(254deg 100% 95% / 3%)!important;
+    padding: 5px 5px 5px 15px!important;
+    border-radius: 5px;
+}
+
+.subtitle{
+    width: 50%;
+    border-top: 4px solid;
+    border-radius: 10px;
+    border-color: #7e7e7e!important;
+}
+.is-loaded{
+    display: flex;
+}
+
+/* katex style */
+.mjx-cA0{
+    letter-spacing: 20px;
+    font-size: 50px;
+}

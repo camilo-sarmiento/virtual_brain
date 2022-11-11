@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiRust",
+      "RiVideoLine",
+      "IbStackHorizontal",
+      "SiTypescript"
+    ],
+    "recentlyUsedIconsSize": 4,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Pensamiento logico.md": "IbFolder",
+  "Informatica y redes": "RiSignalWifi3Line",
+  "python": "SiPython",
+  "typescript": "SiTypescript",
+  "Informatica y redes/src": "IbStackHorizontal",
+  "animation": "RiVideoLine",
+  "Rust": "SiRust"
+}
