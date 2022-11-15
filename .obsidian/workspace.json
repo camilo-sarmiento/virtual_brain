@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa88291512af77f5",
+            "id": "5cac61aadc8ca88f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "python/src/Deque.svg.xml",
-                "staged": false
+                "file": "Pensamiento logico.md/Actividades/Tarea 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -33,21 +35,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7639d338906733fc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "dia",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "96119d58603e2c3a",
             "type": "leaf",
             "state": {
@@ -64,13 +51,28 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "091561b1efc5ac86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.5
   },
   "right": {
     "id": "2e928bfd1627277e",
@@ -81,33 +83,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31e7c5d98c13f842",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "09353e360726d054",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "924c55fd0afc00d2",
             "type": "leaf",
             "state": {
@@ -116,14 +91,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "ab55dc0e6c2440f6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           },
           {
@@ -149,25 +116,64 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "ee862af83252e866",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pensamiento logico.md/Actividades/Tarea 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "279cc4f14606a8e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pensamiento logico.md/Actividades/Tarea 1.md"
+              }
+            }
+          },
+          {
+            "id": "b1cdcd85f4ead642",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pensamiento logico.md/Actividades/Tarea 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 740.5
+    "width": 805.5
   },
-  "active": "aa88291512af77f5",
+  "active": "6dbba7928ad104b3",
   "lastOpenFiles": [
-    "Unad/Historia de la unad.md",
-    "Pensamiento logico.md/Cuantificadores.md",
     "Pensamiento logico.md/Untitled.md",
+    "Pensamiento logico.md/Actividades/Tarea 1.md",
+    "Pensamiento logico.md/Actividades/test.ipynb",
     "Pensamiento logico.md/Leyes de inferencia/Leyes de inferencia.md",
+    "202211151239.md",
+    "202211151238.md",
+    "Pensamiento logico.md/Cuantificadores.md",
     "Pensamiento logico.md/circunferencia.md",
-    "Pensamiento logico.md/Untitled database.md",
-    "python/Estructuras y tipos de datos.md",
-    "python/src/Diagram.svg",
-    "python/src/Cola.svg",
-    "python/src/Deque.svg"
+    "Untitled.md",
+    "Unad/Historia de la unad.md"
   ]
 }

@@ -77,7 +77,7 @@ Es la ecuación utilizada para poder encontrar la coordenadas del centro y el ra
 
 
 
-Si nos dan la ecuación de una circunferencia, a partir de ella podemos encontrar las coordenadas de su centro y el valor de su radio para graficarla o dibujarla.
+Si nos dan la ***ecuación*** de una circunferencia, a partir de ella podemos encontrar las coordenadas de su centro y el valor de su radio para graficarla o dibujarla.
 
 Y si nos dan las coordenadas del centro de una circunferencia y el radio o datos para encontrarlo, podemos llegar a la ecuación de la misma circunferencia.
 

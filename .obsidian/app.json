@@ -1,5 +1,6 @@
 {
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
@@ -15,5 +16,8 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "_notion-like-tables",
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showIndentGuide": true
 }

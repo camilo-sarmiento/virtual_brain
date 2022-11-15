@@ -100,5 +100,13 @@
     }
   ],
   "obsidian-minimal-settings:toggle-minimal-solarized-dark": [],
-  "open-with-default-app:open": []
+  "open-with-default-app:open": [],
+  "obsidian-smarter-md-hotkeys:smarter-italics-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad9"
+    }
+  ]
 }
