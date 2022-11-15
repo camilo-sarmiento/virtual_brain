@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d341d4e3074bae12",
+            "id": "aa88291512af77f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensamiento logico.md/circunferencia.md",
-                "mode": "source",
+                "file": "Unad/Historia de la unas.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 200
   },
   "right": {
     "id": "2e928bfd1627277e",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensamiento logico.md/circunferencia.md",
+                "file": "Unad/Historia de la unas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensamiento logico.md/circunferencia.md",
+                "file": "Unad/Historia de la unas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensamiento logico.md/circunferencia.md"
+                "file": "Unad/Historia de la unas.md"
               }
             }
           },
@@ -156,23 +156,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 582.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "d341d4e3074bae12",
+  "active": "aa88291512af77f5",
   "lastOpenFiles": [
+    "Pensamiento logico.md/Cuantificadores.md",
+    "Pensamiento logico.md/Untitled.md",
+    "Unad/Historia de la unas.md",
+    "Pensamiento logico.md/Leyes de inferencia/Leyes de inferencia.md",
+    "Pensamiento logico.md/circunferencia.md",
+    "Pensamiento logico.md/Untitled database.md",
     "python/Estructuras y tipos de datos.md",
     "python/src/Diagram.svg",
     "python/src/Cola.svg",
-    "python/src/Deque.svg",
-    "python/src/Pila.svg",
-    "python/args and kwargs.md",
-    "python/Python.md",
-    "Pensamiento logico.md/circunferencia.md",
-    "Pensamiento logico.md/Cuantificadores.md",
-    "Pensamiento logico.md/Untitled.md"
+    "python/src/Deque.svg"
   ]
 }
