@@ -1,3 +1,6 @@
+:root{
+    --color-base-70: #c71f1f!important;
+}
 *{
     /* font-family: 'Fira Code', monospace!important; */
     font-family: 'Fira Code',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -36,6 +39,33 @@ pre{
 .admonition-parent > p{
     display: none;
 }
+.is-flashing{
+    position: relative;
+    background-color: #8b6cef!important;
+    color: white!important;
+}
+.is-flashing::after{
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 2px;
+    background-color: white;
+    bottom: 0px;
+    right: 0;
+    animation: flashing 1.5vs ease-in-out infinite;
+}
+@keyframes flashing {
+    0%{
+        width: 0%;
+    }
+    50%{
+        width: 50%;
+    }
+    100%{
+        width: 0;
+    }
+}
+
 
 hr{
     border-color: #f3f3f3!important;
@@ -51,6 +81,16 @@ blockquote {
     border-top: 4px solid;
     border-radius: 10px;
     border-color: #7e7e7e!important;
+}
+
+.line-math{
+    width: 20%;
+    margin: 0;
+}
+.cite{
+    text-align:right;
+    font-style: italic;
+    font-size: 12px;
 }
 .is-loaded{
     display: flex;
@@ -68,9 +108,6 @@ strong > em{
 }
 
 /* Table style */
-table {
-    /* border: 2px solid rgb(0, 0, 0)!important; */
-}
 thead > tr{
     background-color: transparent;
     border: 4px solid #1e1e1e;
@@ -80,25 +117,20 @@ thead > tr{
 }
 
 thead > tr > th{
-    /* color: rgb(224, 224, 224)!important; */
     background-color: transparent!important;
-    filter:contrast(2);
     border:1px solid rgb(139, 139, 139)!important;
-    /* border-top: none!important; */
-    /* background-color: #1e1e1e!important; */
 }
 
 th{
     min-width: 50px;
     font-weight: 600!important;
-    /* border: 2px solid rgb(209, 209, 209)!important; */
+    color: var(--h1-color)!important;
 }
 tbody > tr{
     background-color: hsla(0, 0%, 100%, 0.03)!important;
-    border: 4px solid #1e1e1e;
+    border: 4px solid var(--background-primary);
     border-top: none;
 }
 td{
     border: 1px solid rgb(153, 153, 153)!important;
-    /* background-color: none!important; */
 }

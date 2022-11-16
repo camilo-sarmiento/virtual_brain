@@ -12,7 +12,6 @@
   "obsidian-excel-to-markdown-table",
   "obsidian-latex",
   "ghost-fade-focus",
-  "hover-external-link",
   "obsidian-icon-folder",
   "obsidian-icon-shortcodes",
   "obsidian-jupyter",
@@ -30,5 +29,6 @@
   "obsidian-vimrc-support",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-codemirror-options",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "hover-external-link"
 ]

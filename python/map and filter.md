@@ -7,22 +7,37 @@ Este es un [[Python#Iterator | iterador]] que se realiza con un [[Python#Iterabl
 ```jupyter
 vec = [1, 2, 3, 4, 5]
 vec = 'python'
-square = list(map(lambda x: x, vec))
+square = list(map(lambda x: x ** 2, vec))
 square
 ```
 
 La función **map()** recibe dos parámetros:
 
-| función   | parámetro x          | parámetro y |
-| --------- | -------------------- | ----------- |
-| map(x, y) | función para aplicar | Lista input | 
+| función   | parámetro x    | parámetro y |
+| --------- | -------------- | ----------- |
+| map(x, y) | función lambda | Lista input |
 
-Donde se recomienda usar una [[Python#Lambda| función lambda]] para aplicar como parámetro x
+Donde se recomienda usar una [[Python#Lambda| función lambda]] en el iterador **map** donde se le agrega un parámetro el cual es la iteración.
 
+<br/>
 
 ---
-contexto 
-mallas dentro de cada facultad > asignatura
-.
 
-362 x 203.617
+<br/>
+
+# Filter
+
+Esta es un [[Python#Iterator|iterador]], el cual permite hacer una [[Python#Iteration]] con una condición, si la cumple se almacena el valor.
+
+```jupyter
+iter = range(100)
+out = list(filter(lambda x: x%2 == 0, iter))
+print(out)
+```
+<br/>
+
+| función      | parámetro x    | parámetro y |
+| ------------ | -------------- | ----------- |
+| filter(x, y) | función lambda | Lista input |
+
+Donde se recomienda usar una [[Python#Lambda| función lambda]] en el iterador **filter** donde se le agrega un parámetro el cual es la iteración.

@@ -15,10 +15,8 @@ Establece que si el antecedente *(primer término)* es afirmativo, entonces el c
 | Premisas | Conclusión |
 | -------- | ---------- |
 | x -> y   | y          |
-| ¬x -> y  | ¬y         |
 
-> Si x, entonces y. \
-> Si No x, entonces No y
+> Si x, entonces y. 
 
 
 ---
@@ -30,9 +28,4 @@ y = None
 if x:
     y = True
     print('x es afirmativo, entonces y es afirmativo')
-
-
-if not x:
-    y = False
-    print('y es negativo, entonces x es negativo')
 ```

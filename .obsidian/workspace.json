@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Pensamiento logico.md/Actividades/Tarea 1.md",
-                "mode": "source",
-                "backlinks": false,
+                "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -157,23 +157,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 805.5
+    "width": 318.5
   },
-  "active": "6dbba7928ad104b3",
+  "active": "5cac61aadc8ca88f",
   "lastOpenFiles": [
-    "Pensamiento logico.md/Untitled.md",
+    "Pensamiento logico.md/src/Jtable_act_4.png",
     "Pensamiento logico.md/Actividades/Tarea 1.md",
-    "Pensamiento logico.md/Actividades/test.ipynb",
     "Pensamiento logico.md/Leyes de inferencia/Leyes de inferencia.md",
-    "202211151239.md",
-    "202211151238.md",
-    "Pensamiento logico.md/Cuantificadores.md",
-    "Pensamiento logico.md/circunferencia.md",
-    "Untitled.md",
-    "Unad/Historia de la unad.md"
+    "Pensamiento logico.md/Actividades/test.ipynb",
+    "python/args and kwargs.md",
+    "python/Python.md",
+    "Pensamiento logico.md/Leyes de inferencia/Modelos/Modo Ponendo Ponens.md",
+    "Pensamiento logico.md/Leyes de inferencia/Modelos/Modo Tollendo Tollens.md",
+    "python/map and filter.md",
+    "Pensamiento logico.md/Untitled.md"
   ]
 }

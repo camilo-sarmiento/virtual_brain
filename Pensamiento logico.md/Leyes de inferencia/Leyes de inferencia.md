@@ -9,7 +9,6 @@ Establece que si el antecedente _(primer término)_ es afirmativo, entonces el
 | Premisas | Conclusión |
 | -------- | ---------- |
 | x -> y   | y          |
-| ¬x -> y  | ¬y         |
 
 <br/>
 

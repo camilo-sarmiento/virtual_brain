@@ -9,15 +9,16 @@
   "vimMode": true,
   "legacyEditor": false,
   "livePreview": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "spellcheck": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "_notion-like-tables",
+  "attachmentFolderPath": "src",
   "promptDelete": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "showUnsupportedFiles": false
 }

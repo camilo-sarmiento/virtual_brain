@@ -108,5 +108,11 @@
       ],
       "key": "Numpad9"
     }
+  ],
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
   ]
 }
