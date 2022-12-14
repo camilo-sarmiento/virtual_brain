@@ -1,4 +1,5 @@
 # Ejercicio 1: <br/> Proposiciones y tablas de verdad
+>Métodos para probar la validez de argumentos
 
 <hr class="subtitle">
 
@@ -20,7 +21,7 @@ Si <mark class="hltr-green">el futuro de la educación  aún es incierto</mark>,
 <br/>
 
 ### Redacción
-Si el futuro de la educación aún es incierto, entonces es importante que las instituciones busquen nuevos planes y nuevos modelos educativos para recuperar el tiempo perdido durante la pandemia.
+Si el futuro de la educación aún es incierto, entonces es importante que las instituciones busquen nuevos planes y modelos educativos para recuperar el tiempo perdido durante la pandemia.
 
 <br/>
 
@@ -28,12 +29,12 @@ Si el futuro de la educación aún es incierto, entonces es importante que las i
 
 ## Tabla de verdad
 
-```jupyter
+<!--```jupyter
 pro = 3
 pos = 2
 
 pos ** pro
-```
+```-->
 
 <br/>
 
@@ -47,6 +48,12 @@ pos ** pro
 | F   | V   | F   | F     | V            |
 | F   | F   | V   | F     | V            |
 | F   | F   | F   | F     | V            | 
+<p class="cite">Creación propia</p>
+
+<br/>
+
+![[jtable_act_4_01.png]]
+<p class="cite"> Creación en el simulador lógica UNAD </p>
 
 Según los resultados de la tabla de verdad, podemos concluir que la afirmación [[Tarea 1#^c5e400 | 𝑝 -> (q ∧ 𝑟)]] es una **Contingencia**.
 

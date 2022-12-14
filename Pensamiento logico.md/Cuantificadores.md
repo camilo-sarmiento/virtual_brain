@@ -122,7 +122,7 @@ Se puede leer:
 
 #### Forma matemática
 Dada la expresión:
-> $$ f(x) = 3^x + 1 = 10 \space  donde \space  \exist x \in  \mathbb{N}$$
+> $$ f(x) = 3^x + 1 = 10 \space  donde \space  \exists x \in  \mathbb{N}$$
 
 Donde la preposición **cuantificada** es:
 

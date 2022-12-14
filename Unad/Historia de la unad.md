@@ -74,3 +74,26 @@ En 1981 se da inicio al proyecto educativo **Unidad Universitaria del Sur de Bog
 La institución educativa tenia como objetivo aportar a la sociedad con el desarrollo de mano de obra mayor capacitada, la participación de de las comunidades marginales en todo el país; en la época fue revolucionario para la educación para acompañar el aprendizaje significativo, autodirigido, autónomo y colaborativo de los estudiantes en la nueva modalidad, lo cual produjo que en 1997 se cambiara el nombre a a *Universidad Nacional Abierta y a Distancia UNAD*, para que representara su cobertura.
 
 
+# Retos
+
+## Macros
+
+* internet
+* Finalización
+* credibilidad
+* 
+
+## Meso
+* Interacción
+* motivación
+* innovación constante
+* accesibilidad de medios
+* flexibilidad y personalización 
+* Capacitación de los tutores a virtualidad
+
+## Micro
+* Tiempo
+* Adaptación
+* Manejo de herramientas
+* Disciplina y autonomía
+* interacción con compañeros y tutores

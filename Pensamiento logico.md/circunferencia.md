@@ -312,3 +312,12 @@ Por último, resolvemos las operaciones.
 
 8. > $$r = \frac{283}{2} = 141.5$$
 
+
+# Elipse
+
+![[Pasted image 20221117151223.png]]
+
+## ecuaciones
+![[Pasted image 20221117152052.png]]
+
+![[Pasted image 20221117153335.png]]
