@@ -33,5 +33,7 @@
   "hover-external-link",
   "obsidian-pandoc",
   "obsidian-enhancing-export",
-  "obsidian-tabs"
+  "obsidian-tabs",
+  "obsidian-completr",
+  "copy-as-latex"
 ]

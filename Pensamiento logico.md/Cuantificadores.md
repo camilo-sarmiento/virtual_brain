@@ -50,7 +50,7 @@ Se puede leer:
 <br/>
 
 #### Forma matemática
-Dada la expresión:
+Dada la expresión, con la **función categórica f(x)**:
 > $$ f(x) = 2x^3 + 3 > 10 \space  donde \space  x \in  \mathbb{N}$$
 
 Donde la preposición **cuantificada** es:
@@ -194,6 +194,11 @@ $$\exists \to \nexists$$
 3. Todos los políticos no son mentirosos ^d55403
 4. Algún político no es mentiroso ^b831ed
 
+>**Tipo A =** Universal afirmativo
+>**Tipo E =** Universal negativo
+
+>**Tipo I =** Particular afirmativo
+>**Tipo O =** Particular Negativo
 
 Si A es verdadera:
 ![[Cuantificadores#^9843dc]]
@@ -207,3 +212,33 @@ I es verdadera (subalterna):
 E es falsa (contrariedad):
 
 ![[Cuantificadores#^d55403]]
+
+# Tabla
+
+p = Algunos estudiantes asisten a los encuentros cipas
+q= Todos los estudiantes no asisten a los encuentros cipas
+
+| Proposiciones | Cuantificador | Término Sujeto | Cópula     | Término predicado |
+| ------------- | ------------- | -------------- | ---------- | ----------------- |
+| P             | Algunos       | Estudiantes    | Asisten    | Encuentros cipas  |
+| Q             | Todos         | Estudiante     | No asisten | Encuentros cipas                  |
+
+# Razonamiento
+
+## Razonamiento inductivo
+
+Razonar partiendo de una serie de ideas, donde se lleva **de lo particular a lo general**
+
+## Razonamiento deductivo
+
+Razonar partiendo de una serie de ideas, donde se lleva **de lo general a lo particular**
+
+## Ejemplo
+
+**Todos** los lácteos aportan calcio. El yogur es un lácteo. por lo tanto, el yogur aporta calcio al cuerpo
+
+P1 = Todos los lácteos aportan calcio
+P2 = El yogur es un lácteo
+Conclusión = El yogur aporta calcio al cuerpo
+
+Es deductivo porque pasa de hablar de todos los lácteos, a el yogur (de lo general a lo particuar)

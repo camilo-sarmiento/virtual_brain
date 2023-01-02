@@ -2,11 +2,11 @@
   "accentColor": "",
   "cssTheme": "",
   "enabledCssSnippets": [
-    "style",
-    "custom-admonitions.e488bb"
+    "custom-admonitions.e488bb",
+    "style"
   ],
   "interfaceFontFamily": "Fira Code",
   "nativeMenus": true,
   "translucency": true,
-  "baseFontSize": 14
+  "baseFontSize": 13
 }
