@@ -114,6 +114,7 @@ los alumnos que **no** tengan un promedio mayor o igual a 4.5 **y** que **no** p
 <br/>
 
 ### Conclusión
+<hr class="subtitle">
 
 Como lo pudimos ver anteriormente, no se cumple la igualdad de la operación:
 
@@ -124,3 +125,95 @@ Debido a que dan dos resultados completamente diferentes, por ende, debería ser
 > 𝐁 ∩ (𝐀 Δ 𝐂) != (𝐁 Δ 𝐂) − 𝐀
 
  ![[pasos_B_1-2.svg]]
+
+<br/>
+<br/>
+
+# Ejercicio 3: <br/> Operaciones entre conjuntos
+Aplicación de la Teoría de Conjuntos
+
+<br/>
+
+## Definición de conjuntos
+<hr class="subtitle">
+
+![T_3_B_3.svg](T_3_B_3.svg)
+
+Teniendo en cuenta el conjunto dado, lo podemos expresar mediante **Extensión**, de la siguiente manera:
+
+>**U** = {6, 7, 9, 11, 15, 16, 19, 21}
+>
+>**A** = {6, 11, 15, 21}
+>
+>**B** = {6, 7, 11, 16}
+>
+>**C** = {6, 7, 9, 21}
+
+<br/>
+
+Después resolvemos la siguientes operaciones:
+> 1. B U (𝐴 - 𝐶)
+> 2. (B ∩ C) Δ A>
+> 3. A' - (C - B)
+> 4. (𝐴 - C) ∩ B
+
+<br/>
+
+### Operación 1
+<hr class="subtitle">
+
+![B_3_1.svg](B_3_1.svg)
+
+Teniendo en cuenta la operación **B U (𝐴 - 𝐶)**, realizamos primero la **diferencia**, y después la **Unión**.
+
+>𝐴 - 𝐶 = {11, 15}
+>
+>B U (𝐴 - 𝐶) ={6, 7, 11, 15, 16}
+
+---
+
+<br/>
+
+### Operación 2
+<hr class="subtitle">
+
+![B_3_2.svg](B_3_2.svg)
+
+Teniendo en cuenta la operación **(B ∩ C) Δ A**, realizamos primero la **intersección**, y después la **diferencia simétrica**.
+
+>B ∩ C = {6, 7}
+>
+>(B ∩ C) Δ A = {7, 11, 15, 21}
+
+---
+
+<br/>
+
+### Operación 3
+<hr class="subtitle">
+
+![B_3_3.svg](B_3_3.svg)
+
+Teniendo en cuenta la operación **A' - (C - B)**, realizamos primero la **Complementación** y la **diferencia**, después se hace la última **diferencia**.
+
+
+>A' = {7, 9, 16, 19}
+>
+>(C - B) = {9, 21}
+>
+>A' - (C - B) = {7, 16, 19}
+
+---
+
+<br/>
+
+### Operación 4
+<hr class="subtitle">
+
+![B_3_4.svg](B_3_4.svg)
+
+Teniendo en cuenta la operación **(𝐴 - C) ∩ B**, realizamos primero la **diferencia**, y después se hace la  **intersección**.
+
+>(𝐴 - C) = {11, 15}
+>
+>(𝐴 - C) ∩ B = {11}

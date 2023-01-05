@@ -332,6 +332,7 @@ Carro
 Conjuntos
 Comprobaci
 Capa
+Como
 de
 donde
 dem
@@ -604,6 +605,12 @@ definir
 debemos
 damos
 dasharray
+dar
+definidos
+dan
+diferentes
+deber
+dado
 conjuntos
 constituido
 conjunto
@@ -934,6 +941,9 @@ calificaciones
 comprobaci
 cls
 circle
+comprobar
+cumple
+completamente
 finito
 formado
 font
@@ -1962,6 +1972,8 @@ termina
 trica
 terminos
 tspan
+tems
+tengan
 est
 elementos
 el
@@ -2251,6 +2263,11 @@ empieza
 extensi
 expedici
 exite
+enteros
+encuentra
+esta
+excursi
+ello
 por
 personas
 pares
@@ -2543,6 +2560,11 @@ par
 polyline
 points
 preserve
+promedio
+programa
+poder
+primer
+pudimos
 rango
 reales
 rgb
@@ -2802,6 +2824,9 @@ razonamiento
 realizar
 realizamos
 rgba
+respuesta
+rminos
+resolvemos
 limitado
 los
 la
@@ -3548,6 +3573,8 @@ menos
 mundo
 marino
 marina
+mujer
+mediante
 Infinito
 IAAGWAAAAAYGNtYXDPBugkAABl
 Ii
@@ -4101,6 +4128,7 @@ igualdad
 importante
 incluir
 impar
+infinitos
 naturales
 ning
 no
@@ -4915,6 +4943,11 @@ semestre
 siguiente
 soluci
 spacing
+siendo
+sean
+segundo
+siguientes
+sim
 Vac
 VE
 VEhAPA
@@ -5927,6 +5960,8 @@ agenda
 argumento
 aclara
 acuerdo
+alumnos
+anteriormente
 Disyunto
 Donde
 Daughter
@@ -6257,6 +6292,7 @@ Definici
 Deductivo
 Determinaci
 Debido
+Despu
 que
 qChgCEBU
 qBA
@@ -7552,6 +7588,8 @@ bde
 bbY
 blue
 bicicleta
+biolog
+bilog
 Architects
 AAEAAAAMAIAAAwBAT
 AAAARxnYXNwAAAAEAAAkvgAAAAIZ
@@ -12379,6 +12417,7 @@ OL
 Oxf
 Operaciones
 Orinoquia
+Operaci
 YLhUvx
 YBhIHAgGFLg
 YmLz

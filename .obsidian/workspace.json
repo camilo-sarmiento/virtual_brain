@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e0f113c0f27275",
+        "id": "c6fb9a704da34a44",
         "type": "tabs",
         "children": [
           {
-            "id": "1a30aef899de1e16",
+            "id": "75d1e0a61048c49c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +177,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1a30aef899de1e16",
+  "active": "75d1e0a61048c49c",
   "lastOpenFiles": [
+    "Pensamiento logico.md/Actividades/Tarea 3.md",
+    "Pensamiento logico.md/Actividades/Untitled.md",
     "Pensamiento logico.md/Actividades/test.ipynb",
     "Pensamiento logico.md/Actividades/Tarea 2.md",
-    "Pensamiento logico.md/Actividades/Tarea 3.md",
     "Pensamiento logico.md/src/pasos_B_1.svg",
     "Pensamiento logico.md/Conjuntos.md",
     "Pasted image 20221108191631.png",
     "Pensamiento logico.md/src/Unión.svg",
     "Pensamiento logico.md/Untitled.md",
-    "Pensamiento logico.md/src/Contenencia.svg",
-    "Diagram.svg"
+    "Pensamiento logico.md/src/Contenencia.svg"
   ]
 }

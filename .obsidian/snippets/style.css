@@ -19,10 +19,6 @@
     opacity: .8;
     font-weight: 300!important;
 }
-div[src] > img{
-    margin: 25px;
-
-}
 div[src]{
     display:flex;
     align-items: center;
