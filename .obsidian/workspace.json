@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6fb9a704da34a44",
+        "id": "b0f4001de6bf0e11",
         "type": "tabs",
         "children": [
           {
-            "id": "75d1e0a61048c49c",
+            "id": "e4a521a275c06995",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,7 +177,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "75d1e0a61048c49c",
+  "active": "09813acefa09fbef",
   "lastOpenFiles": [
     "Pensamiento logico.md/Actividades/Tarea 3.md",
     "Pensamiento logico.md/Actividades/Untitled.md",

@@ -151,7 +151,7 @@ Teniendo en cuenta el conjunto dado, lo podemos expresar mediante **Extensión**
 
 <br/>
 
-Después resolvemos la siguientes operaciones:
+Después resolvemos las siguientes operaciones:
 > 1. B U (𝐴 - 𝐶)
 > 2. (B ∩ C) Δ A>
 > 3. A' - (C - B)
@@ -217,3 +217,89 @@ Teniendo en cuenta la operación **(𝐴 - C) ∩ B**, realizamos primero la **d
 >(𝐴 - C) = {11, 15}
 >
 >(𝐴 - C) ∩ B = {11}
+
+<br/>
+<br/>
+
+---
+
+# Ejercicio 4: <br/> Aplicación de la Teoría de Conjuntos
+Aplicación de la Teoría de Conjuntos
+
+<br/>
+
+## Situación problémica
+
+La **Universidad Nacional Abierta y a Distancia** organiza las Olimpiadas anuales para sus estudiantes inscritos. En un grupo de **350 estudiantes** seleccionados por sus capacidades y competencias, se determina que:
+
+> - **145** se inscribieron a **tenis de mesa**.
+> 
+> - **115** se inscribieron en **bolos**.
+> 
+> - **150** se inscribieron en **fútbol**.
+> 
+> - **50** se inscribieron **solo a tenis de mesa**.
+> 
+> - **30** se inscribieron **sólo a bolos**.
+> 
+> - **45** estudiantes se inscribieron simultáneamente en las **tres modalidades**.
+> 
+> - **30** estudiantes se inscribieron a **bolos y fútbol**, pero **no a tenis de mesa**.
+> 
+> - **40** estudiantes se inscribieron a **tenis de mesa y a fútbol**, pero **no a bolos**.
+
+Teniendo en cuenta la información anterior, se contestará:
+> 1. ¿Cuántos estudiantes se inscribieron sólo a fútbol?
+> 
+> 2. ¿Cuántos estudiantes se inscribieron a tenis de mesa y bolos, pero no a fútbol?
+> 
+> 3. ¿Cuántos estudiantes no se inscribieron a ninguna de las tres modalidades?
+
+<br/>
+
+## Definición de conjuntos
+
+
+
+>**U** = {x | x este seleccionado por sus capacidades y competencias}
+>**|U|** = 350
+>
+>**A** = {x | x este inscrito en tenis de mesa}
+>**|A|** = 145
+>
+>**B** = {x | x este inscrito en bolos}
+>**|B|** = 115
+>
+>**C** = {x | x este inscrito en fútbol}
+>**|C|** = 150
+>
+>**D** = {x | x no este inscrito en ninguna modalidad}
+>**|D|** = 110
+
+<br/>
+
+### ¿Cuántos estudiantes se inscribieron sólo a fútbol?
+
+![B_4_1.svg](B_4_1.svg)
+
+>**C - (A U B)** = {35}
+
+<br/>
+
+---
+
+### ¿Cuántos estudiantes se inscribieron a tenis de mesa y bolos, pero no a fútbol?
+
+![B_4_2.svg](B_4_2.svg)
+
+>**(A ∩ B) - C** = {10}
+
+<br/>
+
+---
+
+### ¿Cuántos estudiantes no se inscribieron a ninguna de las tres modalidades?
+
+![B_4_3.svg](B_4_3.svg)
+
+>**(A U B U C)'** = {D}

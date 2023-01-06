@@ -333,6 +333,7 @@ Conjuntos
 Comprobaci
 Capa
 Como
+Complementaci
 de
 donde
 dem
@@ -611,6 +612,7 @@ dan
 diferentes
 deber
 dado
+determina
 conjuntos
 constituido
 conjunto
@@ -944,6 +946,9 @@ circle
 comprobar
 cumple
 completamente
+capacidades
+competencias
+contestar
 finito
 formado
 font
@@ -1974,6 +1979,9 @@ terminos
 tspan
 tems
 tengan
+tenis
+tbol
+tres
 est
 elementos
 el
@@ -2565,6 +2573,7 @@ programa
 poder
 primer
 pudimos
+probl
 rango
 reales
 rgb
@@ -3064,6 +3073,7 @@ literalmente
 libres
 limita
 letter
+ltima
 Sea
 Se
 Son
@@ -3316,6 +3326,7 @@ Seg
 Seguimos
 Sim
 Segundo
+Situaci
 manzanas
 manzana
 meros
@@ -3575,6 +3586,10 @@ marino
 marina
 mujer
 mediante
+mica
+mesa
+modalidades
+modalidad
 Infinito
 IAAGWAAAAAYGNtYXDPBugkAABl
 Ii
@@ -4129,6 +4144,10 @@ importante
 incluir
 impar
 infinitos
+inscritos
+inscribieron
+informaci
+inscrito
 naturales
 ning
 no
@@ -4395,6 +4414,9 @@ nDJI
 nIX
 nmA
 ntesis
+neamente
+ntos
+ninguna
 Unitario
 Universal
 ULDwgExhQBAg
@@ -4658,6 +4680,7 @@ UUC
 UUq
 Ukz
 Uni
+Universidad
 solo
 se
 su
@@ -4948,6 +4971,10 @@ sean
 segundo
 siguientes
 sim
+sus
+seleccionados
+simult
+seleccionado
 Vac
 VE
 VEhAPA
@@ -5699,6 +5726,7 @@ onL
 opci
 operaci
 opacity
+organiza
 adem
 application
 aFAERKyYMFkwcGwoREBREAgQLFAcNBAEiTB
@@ -5962,6 +5990,7 @@ aclara
 acuerdo
 alumnos
 anteriormente
+anuales
 Disyunto
 Donde
 Daughter
@@ -6293,6 +6322,7 @@ Deductivo
 Determinaci
 Debido
 Despu
+Distancia
 que
 qChgCEBU
 qBA
@@ -7590,6 +7620,7 @@ blue
 bicicleta
 biolog
 bilog
+bolos
 Architects
 AAEAAAAMAIAAAwBAT
 AAAARxnYXNwAAAAEAAAkvgAAAAIZ
@@ -8551,6 +8582,7 @@ Argumento
 Algunas
 Alumnos
 Alumnas
+Abierta
 MvMoWwV
 MIDkMQCSgIAQgKGQNhGv
 MzIWHQE
@@ -10115,6 +10147,7 @@ gwo
 geB
 gico
 green
+grupo
 QANIw
 QHisaOzwLEQVePR
 QAqAAATNDMyHgQVMxQHBgcGBwYUFhcWFAcGIyInLgEnJiciBw
@@ -10767,6 +10800,7 @@ NGyy
 NSS
 NOY
 Nombre
+Nacional
 PyoTCyUGDhUFC
 PgI
 PgE
@@ -12418,6 +12452,7 @@ Oxf
 Operaciones
 Orinoquia
 Operaci
+Olimpiadas
 YLhUvx
 YBhIHAgGFLg
 YmLz
