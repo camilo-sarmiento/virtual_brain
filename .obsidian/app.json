@@ -15,10 +15,11 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "src",
-  "promptDelete": false,
+  "promptDelete": true,
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showIndentGuide": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "propertiesInDocument": "source"
 }

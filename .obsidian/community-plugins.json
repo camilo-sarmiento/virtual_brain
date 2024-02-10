@@ -35,5 +35,8 @@
   "obsidian-enhancing-export",
   "obsidian-tabs",
   "obsidian-completr",
-  "copy-as-latex"
+  "copy-as-latex",
+  "obsidian-wordnet-plugin",
+  "translate",
+  "obsidian-hover-editor"
 ]
